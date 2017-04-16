@@ -13,8 +13,9 @@ Rather, they are reading or writing something while interacting with a chatbot.
 
  You may find some amazing answers from people, who will inspire you and will guide you towards a better you everyday.
 
-You have an option of asking anything, literally anything and you will get answers from relevant people in moment's notice. Isn't  that a life changing utility tool.
-
+You have an option of asking anything, literally anything and you will get answers from relevant people in moment's notice. Isn't  that a life changing utility tool.  
+MyPolly Flow Diagram:  
+![img](https://github.com/roopansh/jack-ai/blob/master/Capture/Screenshot%20(35).png)
 Link for Video: https://youtu.be/MKvL3CQPdWA  
   
 ![jack](https://github.com/roopansh/jack-ai/blob/master/Capture/jack.gif)
