@@ -19,6 +19,10 @@ Message the bot here: https://www.facebook.com/Jackal-1911755552436717/
 
 MyPolly Flow Diagram:  
 ![img](https://github.com/roopansh/jack-ai/blob/master/Capture/Screenshot%20(35).png)
+
+Flow : 
+Hi
+I am Bored/I have a doubt/I have a question/Suprise me 
 Link for Video: https://youtu.be/MKvL3CQPdWA  
   
 ![jack](https://github.com/roopansh/jack-ai/blob/master/Capture/jack.gif)
