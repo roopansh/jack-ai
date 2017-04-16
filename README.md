@@ -22,3 +22,27 @@ MyPolly Flow Diagram:
 Link for Video: https://youtu.be/MKvL3CQPdWA  
   
 ![jack](https://github.com/roopansh/jack-ai/blob/master/Capture/jack.gif)
+
+
+____________________
+
+### About the project authors
+
+#### Mahim Goyal  
+B.Tech undergraduate  
+Electronics & Electrical Engineering  
+Indian Institute of Technology  
+Guwahati, India
+
+mahim97@gmail.com  
+[Linkedin](https://www.linkedin.com/in/mahim-goyal-b59b4095/)
+
+
+#### Roopansh Bansal  
+B.Tech undergraduate  
+Computer Science & Engineering  
+Indian Institute of Technology  
+Guwahati, India  
+
+roopansh.bansal@gmail.com   
+[Linkedin](www.linkedin.com/in/roopansh-bansal)
